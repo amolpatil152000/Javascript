@@ -1,2 +1,3 @@
 # javascript
-learning javascrip
+learning javascript.
+Author - Amol Patil.
